@@ -1,0 +1,40 @@
+.header {
+    width: 1000;
+    margin: 10px;
+    padding: 10px;
+    
+}
+.logo {
+    margin: 10px;
+    padding: 10px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    float: left
+}
+.title {
+    float: left;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    font-family: Arial, Helvetica, sans-serif
+    
+}
+.nav {
+    float: left;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+.nav > ul > li {
+    float: left;
+    padding: 5px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+.nav ul {
+    list-style-type: none;
+}
+.content {
+    clear: both;
+}
+p {
+    font-family: 'Times New Roman', Times, serif
+}
