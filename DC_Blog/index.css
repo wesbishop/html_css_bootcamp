@@ -23,11 +23,13 @@
 }
 
 .date {
-
+  color: #BBBBBB;
+  margin-bottom: 10px;
 }
 
-.twitter_handle {
-
+.blueButton {
+  background-color: #4B98C4;
+  color: #FFFFFF;
 }
 
 .subTitle {
