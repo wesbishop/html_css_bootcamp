@@ -1,0 +1,39 @@
+.container {
+  padding-top: 2%;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+.navBar > * {
+  display: inline;
+}
+
+.menu {
+  float: right;
+}
+
+.menuItem {
+  margin: 10px;
+  display: inline;
+}
+
+.title {
+  padding-top: 50px;
+  padding-bottom: 25px;
+  text-align: center;
+}
+
+.date {
+
+}
+
+.twitter_handle {
+
+}
+
+.subTitle {
+  text-align: center;
+}
+
+.footer > * {
+  display: inline;
+}
