@@ -23,3 +23,5 @@ BONUS: Instead of using the three icon images in the /img folder, try to impleme
 This design is the hardest of the three. The navigation panel on the left should be fixed to the screen, and only the right side of the page should scroll. You can try to look at http://underscorejs.org/ to see how they implemented this design.
 
 BONUS: Make the links change color when you hover over them.
+
+### This is here to demonstrate that I'm on a different branch
