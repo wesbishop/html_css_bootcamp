@@ -1,0 +1,47 @@
+.navbar {
+    position: relative;
+    z-index: 1000;
+    min-height: 50px;
+    margin-bottom: 24px;
+    border: 1px solid transparent;
+}
+    
+.navbar-inverse {
+    background-color: rgba(0, 0, 0, 0.0);
+    border-color: rgba(0, 0, 0, 0.0);
+}
+    
+.navbar-fixed-top {
+    z-index: 1030;
+    top: 0;
+}
+
+.container {
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.brand {
+    display: inline-block;
+    float: inherit;
+}
+
+.navigation {
+    float: right;
+}
+
+nav {
+    font-size: 1.1em;
+    font-weight: 100;
+}
+
+a {
+    text-decoration: none;
+    color: grey;
+}
+
+html {
+    font-family: Helvetica, serif;
+}
