@@ -1,17 +1,26 @@
 
-
-
-
-.title {
+.logo img {
   float: left;
+  border: black solid 1px;
+}
+
+
+.title h1 {
+  float: left;
+  text-align: left;
   list-style: none;
   margin-left: 20px;
   border: black solid 1px;
 }
 
 .container {
-  width: 100%;
+  display: inline-block;
+  width: 700px;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 25px;
   height: 100%;
+  margin: auto;
 }
 
 .menuButtons li {
@@ -22,15 +31,9 @@
 }
 
 .button {
-  color: blue;
+  color: pink;
+  border: pink solid 1px;
 }
 
-header .logo {
-  float: left;
-  width: 33%;
-}
-
-header .nav {
-  float: right;
-  width: 33%;
-}
+p {
+  border: green solid 1px;
