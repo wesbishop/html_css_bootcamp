@@ -1,0 +1,57 @@
+.container {
+	max-width: 960px;
+	margin: 0 auto;
+}
+
+.nav ul li {
+	list-style: none;
+	display: inline-block;
+}
+
+.logo {
+	float: left;
+	width: 400px;
+	font-size: 40px;
+}
+
+.logo img {
+	width: 100px;
+}
+
+.nav {
+	width: 568px;
+	float: left;
+	text-align: right;
+}
+header {
+	max-width: 960px;
+	width: 960px;
+	position: relative;
+}
+
+.title {
+	clear: both;
+	text-align: center;
+}
+
+.date {
+	text-align: center;
+}
+
+button {
+	background-color: lightblue;
+}
+
+main {
+	text-align: center;
+	padding-bottom: 10px;
+}
+
+.footer li {
+	list-style: none;
+	display: inline-block;
+}
+
+.copyright {
+	text-align: center;
+}
