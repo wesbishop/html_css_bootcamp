@@ -63,5 +63,10 @@ button {
 .bottomNav {
   margin-left: 58px;
   margin-top: -15px;
+}
 
+.copywright {
+  text-align: center;
+  font-size: 12px;
+  margin-top: 50px;
 }
