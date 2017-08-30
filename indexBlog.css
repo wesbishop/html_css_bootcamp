@@ -45,3 +45,23 @@ button {
   width: 100%;
   position: relative;
 }
+#essayTop{
+  padding-top: 25px;
+}
+.essay {
+  margin-left: 110px;
+  margin-right: 110px;
+}
+
+.bottomBar {
+  text-align: center;
+  color: gray;
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
+.bottomNav {
+  margin-left: 58px;
+  margin-top: -15px;
+
+}
