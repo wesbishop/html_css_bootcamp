@@ -1,19 +1,23 @@
 .container {
   padding-top: 2%;
-  padding-left: 10%;
-  padding-right: 10%;
+  padding-left: 15%;
+  padding-right: 15%;
 }
 .navBar > * {
   display: inline;
+  vertical-align: middle;
+}
+
+ul li {
+  display: inline;
+  margin-right: 10px;
+  font-family: Arial;
+  vertical-align: middle;
+  color: #A4A4A4
 }
 
 .menu {
   float: right;
-}
-
-.menuItem {
-  margin: 10px;
-  display: inline;
 }
 
 .title {
@@ -24,18 +28,36 @@
 
 .date {
   color: #BBBBBB;
-  margin-bottom: 10px;
+  margin-bottom: 5px;
+  text-align: center;
+  font-family: Arial;
+  font-size: 10px;
+}
+
+.twitterHandle {
+  text-align: center;
 }
 
 .blueButton {
   background-color: #4B98C4;
   color: #FFFFFF;
+  margin-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border: none;
+  border-radius: 2px;
 }
 
-.subTitle {
-  text-align: center;
+.content {
+  padding-left: 10%;
+  padding-right: 10%;
+  margin-bottom: 10px;
+  font-family: Arial;
 }
 
-.footer > * {
-  display: inline;
+.bigText {
+  font-family: Arial;
+  font-size: 30px;
 }
