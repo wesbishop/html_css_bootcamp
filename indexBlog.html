@@ -1,30 +1,35 @@
 <!DOCTYPE html>
-<!--RANDOM SENTENCE HERE!-->
 <html>
 <head>
   <title>Week_4_Assignment_DC_Blog</title>
-  <link rel="stylesheet" style="text/css" href="index.css">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-  <!--The above link imports font-awesome usage -->
+
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
+  <!--The above link bootstrap css only -->
+  <link rel="stylesheet" style="text/css" href="indexBlog.css">
 </head>
 <body>
   <div class="container">
-    <header>
-      <div class="logo_title">
+    <div class="row header">
+      <div class=" col-6 logoTitle">
         <img id="logoImage" src="logo.png">
-        <h1>Digital Crafts Blog<h1>
-          <ul>
+        Digital Crafts Blog
+      </div>
+      <div class="col-6 navList">
+        <ul>
             <li>All Posts</li>
             <li>About</li>
             <li>Follow</li>
-          </ul>
+        </ul>
       </div>
+
     </header>
 
     <main>
       <h1>Fake it 'til you Make it: A Developer's Story</h1>
-      <p>August 28, 2017</p>
-      <button class="follow">Follow @DigitalCrafts</button>
+      <div class="stats">
+        <p class="date">August 28, 2017</p>
+        <button class="follow">Follow @DigitalCrafts</button>
+      </div>
       <p>Bacon ipsum dolor amet ball tip jerky frankfurter meatloaf venison.
         Fatback tongue short loin jowl beef ribs turducken capicola alcatra
         boudin ham tail venison. Alcatra flank strip steak shankle tenderloin
@@ -62,7 +67,7 @@
             <li>Previous</li>
             <li>Next</li>
           </ul>
-          <p>© 2017 DigitalCrafts, Inc.</p>
+          <p> © 2017 DigitalCrafts, Inc.</p>
         </footer>
 
 

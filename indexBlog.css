@@ -1,0 +1,47 @@
+.container {
+  margin: 0 auto;
+  max-width: 960px;
+}
+#logoImage {
+  height: 30px;
+}
+.logoTitle {
+  font-size: 40px;
+}
+
+.navList {
+  text-align: right;
+}
+
+ul li {
+  display: inline-block;
+  margin-top: 20px;
+  margin-right: 20px;
+  color: gray;
+}
+
+h1 {
+  text-align: center;
+  width: 400px;
+  margin: auto;
+  padding-top: 75px;
+  padding-bottom: 25px;
+}
+
+.date {
+  text-align: center;
+  color: #D3D3D3;
+}
+
+button {
+  display: block;
+  color: white;
+  background-color: #4D99C1;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.stats {
+  width: 100%;
+  position: relative;
+}
