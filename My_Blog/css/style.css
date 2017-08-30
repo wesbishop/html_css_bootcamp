@@ -6,12 +6,13 @@
 .nav ul li {
 	list-style: none;
 	display: inline-block;
+	margin-right: 20px;
 }
 
 .logo {
 	float: left;
+	font-size: 30px;
 	width: 400px;
-	font-size: 40px;
 }
 
 .logo img {
@@ -19,10 +20,11 @@
 }
 
 .nav {
-	width: 568px;
 	float: left;
 	text-align: right;
+	width: 560px;
 }
+
 header {
 	max-width: 960px;
 	width: 960px;
@@ -31,25 +33,21 @@ header {
 
 .title {
 	clear: both;
-	text-align: center;
-}
-
-.date {
-	text-align: center;
 }
 
 button {
 	background-color: lightblue;
+	border: none;
 }
 
 main {
-	text-align: center;
 	padding-bottom: 10px;
 }
 
-.footer li {
+.footer ul li {
 	list-style: none;
 	display: inline-block;
+	margin-right: 20px;
 }
 
 .copyright {
