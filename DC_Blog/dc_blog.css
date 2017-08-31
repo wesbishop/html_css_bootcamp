@@ -26,15 +26,20 @@
 .brand {
     display: inline-block;
     float: inherit;
+    font-size: 1.75em;
+    font-weight: 400;
+    width: 400px;
 }
 
 .navigation {
     float: right;
+    width: 560;
 }
 
 nav {
     font-size: 1.1em;
     font-weight: 100;
+    word-spacing: 1.15em;
 }
 
 a {
@@ -44,4 +49,54 @@ a {
 
 html {
     font-family: Helvetica, serif;
+}
+
+img {
+    float: left;
+}
+
+.blog_title {
+   display: inline-block;
+}
+
+.title {
+    text-align: center;
+    font-size: 2em;
+}
+
+.sub_title {
+    text-align: center;
+    font-size: 1.75em;
+    padding-bottom: 20px;
+}
+
+.date {
+    text-align: center;
+    padding: 5px;
+    color: darkgrey;
+    text-transform: uppercase;
+    font-size: .80em;
+}
+
+.follow {
+    text-align: center;
+}
+
+.button {
+    border: none;
+    color: white;
+    background-color: deepskyblue;
+    padding: 5px 20px;
+}
+
+.blog-text {
+    width: 760;
+    margin: 0px 100px 0px 100px;
+    font-family: times new roman;
+}
+
+.footer {
+    text-align: center
+    margin-top: 200px;
+    display: block;
 }
