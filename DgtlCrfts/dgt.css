@@ -6,3 +6,39 @@
   -o-background-size: cover;
   background-size: cover;
 }
+
+.col_hastags {
+    display: inline-block;
+}
+
+.col_users {
+    display: inline-block;
+}
+
+.col_moolah {
+    display: inline-block;
+}
+
+.top_section {
+    height: 500px;
+}
+
+.center_section {
+    height: 500px;
+}
+
+.dc_title {
+    font-size: 2em;
+    color: #fff;
+    padding-top: 10px;
+}
+
+.dc_subtitle {
+    font-size: 1;
+    color: #fff;
+}
+
+.dc_logo {
+    width: 200px;
+    padding: 10px;
+}
