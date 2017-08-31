@@ -6,15 +6,17 @@ body {
 }
 
 header {
-	background-color: lightblue;
-	padding: 8px;
+	background-image: url(../img/atl.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 10px;
 }
 
 .top li {
 	list-style: none;
 	display: inline-block;
 	margin-left: 20px;
-	color: white;
+	color: lightgray;
 	padding-bottom: 60px;
 }
 .logo img {
@@ -29,7 +31,7 @@ header {
 }
 
 .tagline p {
-	color: grey;
+	color: lightgray;
 	font-size: 20px;
 }
 
