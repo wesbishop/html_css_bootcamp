@@ -1,0 +1,70 @@
+body {
+	text-align: center;
+	margin: 0;
+	padding: 0;
+	font-family: arial;
+}
+
+header {
+	background-color: lightblue;
+	padding: 8px;
+}
+
+.top li {
+	list-style: none;
+	display: inline-block;
+	margin-left: 20px;
+	color: white;
+	padding-bottom: 60px;
+}
+.logo img {
+	width: 200px;
+	padding-bottom: 20px;
+}
+
+.tagline {
+	font-size: 80px;
+	color: white;
+	padding-bottom: 60px;
+}
+
+.tagline p {
+	color: grey;
+	font-size: 20px;
+}
+
+main {
+	padding: 80px;
+}
+
+.future {
+	padding-bottom: 60px;
+	font-size: 20px;
+}
+
+.column {
+	display: inline-block;
+	width: 33%;
+}
+
+.name {
+	font-size: 30px;
+}
+
+footer {
+	background-color: gray;
+	padding-bottom: 1px;
+}
+
+.bottom {
+	color: white;
+}
+
+.bottom li {
+	display: inline-block;
+	list-style: none;
+	color: white;
+	margin-right: 20px;
+	padding: 20px;
+	font-size: 20px;
+}
