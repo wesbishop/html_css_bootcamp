@@ -1,0 +1,8 @@
+.background_image {
+    background: url(img/atl-skyline.jpg)
+    no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
