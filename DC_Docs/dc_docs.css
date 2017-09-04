@@ -14,3 +14,21 @@
 nav a {
     display: block;
 }
+
+.side_bar_title {
+    display: block;
+    color: #fff;
+    font-weight: 500;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+.search_bar {
+    background-color: transparent;
+    padding: 0px 0px 0px 4px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #979797;
+    color: #979797;
+    width: 80%;
+}
