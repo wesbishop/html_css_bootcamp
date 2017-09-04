@@ -1,0 +1,16 @@
+.side_bar {
+    background: #555;
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 200px;
+    overflow-y: auto;
+    overflow-x: hidden;
+    padding: 15px 0 30px 30px;
+    border-right: 1px solid #bbb;
+}
+
+nav a {
+    display: block;
+}
