@@ -69,3 +69,27 @@ nav a {
     color: #979797;
     margin-top: 30px;
 }
+
+.upper {
+    text-transform: uppercase;
+    font-weight: 900;
+    font-size: 12px;
+}
+
+.right {
+    text-align: right;
+}
+
+.quote {
+    background-color: #E6E3DE;
+    padding-top: 10px;
+    padding-top: 10px;
+}
+
+.motivation {
+    margin-bottom: 10px;
+}
+
+.campus_info {
+    margin-bottom: 10px;
+}
