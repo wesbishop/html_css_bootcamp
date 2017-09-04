@@ -49,3 +49,23 @@ nav a {
     font-size: 10px;
     color: #979797;
 }
+
+.DC_Logo {
+    width: 75px;
+    margin-right: 20px;
+    bottom: 0;
+    margin-top: 19px;
+}
+.title {
+    font-weight: 300;
+    font-size: 45px;
+    margin-bottom: 10px;
+    bottom; 0;
+    
+}
+
+.w_message {
+    margin-bottom: 2px;
+    color: #979797;
+    margin-top: 30px;
+}
