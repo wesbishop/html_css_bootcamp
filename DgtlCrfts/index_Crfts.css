@@ -1,0 +1,38 @@
+body{
+
+  background:  url("atl.png") no-repeat center top;
+  background-color: pink;
+  margin: 0;
+  padding: 0;
+  background-size: contain;
+}
+
+.topList {
+  text-align: right;
+  width: 100vh;
+}
+
+#faq {
+  margin: auto 30px auto 30px;
+}
+
+.topNav {
+  display: inline-block;
+  color: white;
+  margin-top: 20px;
+}
+.logoDiv {
+  text-align: center;
+  background-color: red;
+  margin: 150px;
+  color: white;
+  font-size: 80px;
+}
+
+.logoImg {
+  height:80px;
+}
+
+.tag {
+  font-size: 18px;
+}
