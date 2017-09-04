@@ -4,7 +4,7 @@ body{
   background-color: pink;
   margin: 0;
   padding: 0;
-  background-size: contain;
+  background-size: 100% 700px;
 }
 
 .topList {
@@ -21,18 +21,22 @@ body{
   color: white;
   margin-top: 20px;
 }
+
 .logoDiv {
   text-align: center;
-  background-color: red;
   margin: 150px;
   color: white;
   font-size: 80px;
 }
 
 .logoImg {
-  height:80px;
+  height:95px;
 }
 
 .tag {
   font-size: 18px;
+}
+
+.arrowImg {
+  margin-top: 175px;
 }
