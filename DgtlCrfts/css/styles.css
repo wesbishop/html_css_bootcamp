@@ -1,0 +1,130 @@
+  /* Fix hover top/bottom anchors 
+
+*/
+  
+  * {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  header {
+    background-image: url("../img/atl.png");
+    background-size: cover;
+    height: 300px;
+    text-align: center;
+    margin: auto;
+  }
+  
+  .header nav {
+    padding-top: 20px;
+    text-align: right;
+    padding-right: 20px;
+    color: #FFFFFF;
+  }
+  
+  .header a {
+    padding-right: 20px;
+    font-size: .7em;
+  }
+  
+  .header a:hover {
+    font-weight: 800;
+  }
+  
+  .header-logo {
+    height: 50px;
+    width: 100px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .header h1 {
+    margin-bottom: 20px;
+    font-size: 3em;
+    color: #FFFFFF;
+  }
+  
+  .header-description {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    color: #f2f6ee;
+    text-align: center;
+  }
+  
+  .header-downarrow {
+    margin-top: 50px;
+  }
+  
+  .main {
+    height: 300px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    text-align: center;
+    background-color: #FFFFFF;
+  }
+  
+  .main-title {
+    margin: 20px auto 20px auto;
+    font-size: 2em;
+  }
+  
+  .main-sections {
+    width: 90%;
+    height: 250px;
+    margin: 20px auto 20px 80px;
+  }
+  
+  .main-column {
+    float: left;
+    margin-left: 30px;
+    width: 25%;
+    text-align: center;
+    /* border: 2px solid black; */
+  }
+  
+  .main-column img {
+    margin-top: 10px;
+    width: 50%;
+  }
+  
+  .main-column-name {
+    display: block;
+    margin-top: 10px;
+    font-size: 1.8em;
+  }
+  
+  .main-column-text {
+    display: block;
+    margin-top: 10px;
+    margin-left: 30px;
+    margin-right: 30px;
+    font-size: .8em;
+  }
+  
+  .footer {
+    height: 50px;
+    padding-top: 20px;
+    text-align: center;
+    color: #e9ece5;
+    background-color: #747571;
+  }
+  
+  .footer a {
+    padding-right: 20px;
+    color: #e9ece5;
+  }
+  
+  .footer a:hover {
+    font-weight: 800;
+  }
+  
+  .footer-menu {
+    margin-bottom: 10px;
+  }
+  
+  .footer-copyright {
+    font-size: .7em;
+  }
